@@ -7,6 +7,12 @@
 * 效率高，2060 0.3ms，iPhone14P 1ms
 * 效果稳定，已上线明日之后PC版，后续上移动版
 
+### 场景体素化
+![image](./RenderPictures/voxelization.png)
+
+### Probe自动生成
+![image](./RenderPictures/probeplacement.png)
+
 ## 对比
 
 ### GI ON
