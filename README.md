@@ -2,6 +2,7 @@
 基于ScreenSpace的Voxel DDGI方案
 
 ## 方案
+* 支持Diffuse GI+Sky Visibility
 * 支持纯动态光照和场景，无需烘焙
 * 多平台支持可在PC和Mobile流畅运行
 * 效率高，2060 0.3ms，iPhone14P 1ms
@@ -26,6 +27,12 @@
 
 ### GI OFF
 ![image](./RenderPictures/case1_no_gi.png)
+
+### GI ON
+![image](./RenderPictures/case2_gi.png)
+
+### GI OFF
+![image](./RenderPictures/case2_no_gi.png)
 
 ## TODO
 * 支持屏幕外体素化
